@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:ChartsTest.xcodeproj">
+      location = "group:/Users/jasonhoffman/Dropbox/Code/ProgInSwift/ChartsTest/PowerCompareUI.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Pods/Pods.xcodeproj">
